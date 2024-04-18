@@ -3,7 +3,7 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  font-size: 50px;
+  font-size: 25px;
 }
 
 .logo {
@@ -43,4 +43,6 @@
 }
 ul {
   list-style-type: none;
+margin: 0;
+padding: 0;
 }
